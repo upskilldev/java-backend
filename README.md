@@ -1,5 +1,6 @@
 # __JAVA Backend Development__
-## Overview- This repository contains path that will help you to learn Java, Spring / Spring Boot, Hibernate, RESTful APIs & related technologies to build Java-based web applications
+## Overview:
+This repository contains path that will help you to learn Java, Spring / Spring Boot, Hibernate, RESTful APIs & related technologies to build Java-based web applications
 
 ## •	__JAVA PROGRAMMING PART 1__
 #### 1.	Basics of Java
