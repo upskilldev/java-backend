@@ -10,7 +10,7 @@ This repository contains path that will help you to learn Java, Spring / Spring 
 #### 5.	Regular Expression
 
 ## •	__JAVA PROGRAMMING PART 2__
-#### 6.	Java Collection:
+#### 6.	Java Collection
 #### 7.	Lanbda and Streams
 #### 8.	 File Handling in Java
 #### 9.	Threads in Java:
