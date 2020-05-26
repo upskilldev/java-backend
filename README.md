@@ -1,3 +1,7 @@
+Join our community on Spectrum to ask your doubts on the way:
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/upskilldev)
+
+
 # __JAVA Backend Development__
 ## Overview :
 This repository contains path that will help you to learn Java, Spring / Spring Boot, Hibernate, RESTful APIs & related technologies to build Java-based web applications.
